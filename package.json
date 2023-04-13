@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.9",
+    "dotenv": "^16.0.3",
+    "mqtt": "^4.3.7",
+    "web3": "^1.9.0"
+  }
+}
